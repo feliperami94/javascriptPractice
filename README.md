@@ -14,3 +14,9 @@ Platzi course about practices in javascript
 - Segundo paso: implementar fórmulas javascript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JavaScript con HTML
+
+# Taller #3: Promedio, mediana y moda
+- Primer paso:definir las fórmulas
+- Segundo paso: implementar fórmulas javascript
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JavaScript con HTML
